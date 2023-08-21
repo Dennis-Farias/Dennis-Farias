@@ -1,5 +1,7 @@
 ## Opa, eu sou o Dennis de Sousa Farias 😉
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dennisfarias_/)
+
 <div align="center">
   <a href="https://github.com/Dennis-Farias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dennis-Farias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

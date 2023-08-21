@@ -8,6 +8,8 @@
 
 Atualmente cursando Big Data no Agronegócio na Fatec Shunji Nishimura de Pompeia-SP
 
+##
+
 ### Tecnologias que eu já utilizei:
 
 <div style="display: inline_block">

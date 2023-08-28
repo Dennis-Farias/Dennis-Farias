@@ -1,6 +1,7 @@
 ## Opa, eu sou o Dennis de Sousa Farias 😉
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dennisfarias_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-farias-b99904289/)
 
 <div align="center">
   <a href="https://github.com/Dennis-Farias">

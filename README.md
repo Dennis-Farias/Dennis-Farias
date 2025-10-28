@@ -26,8 +26,8 @@
 
 ## 🌎 Onde me encontrar
 📍 Sebastião Leal - Piauí, Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/dennis-farias)  
-📫 **dennisfarias@outlook.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/dennis-de-sousa-farias/)  
+📫 **dennisfarias3@gmail.com**  
 
 ---
 

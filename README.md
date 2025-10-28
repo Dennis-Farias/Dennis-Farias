@@ -1,4 +1,4 @@
-# 👨‍🌾 Olá, eu sou o Dennis de Sousa Farias!
+# 👨‍🌾 Olá, eu sou Dennis de Sousa Farias!
 
 🎓 **Formado em Big Data no Agronegócio** pela Fatec Shunji Nishimura de Pompeia-SP.  
 🌾 Atualmente atuo na área de **Inteligência Agrícola (Big Data)** no **Grupo Progresso**, aplicando análise de dados e tecnologia para transformar informações do campo em indicadores estratégicos.
